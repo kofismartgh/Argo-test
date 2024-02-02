@@ -8,4 +8,4 @@ spec:
   ports:
   - port: 8588
     protocol: TCP
-    targetPort: 8588
+    targetPort: 5997
