@@ -6,6 +6,6 @@ spec:
   selector:
     app: kofiremoteapp
   ports:
-  - port: 8080
+  - port: 8588
     protocol: TCP
-    targetPort: 8080
+    targetPort: 8588
